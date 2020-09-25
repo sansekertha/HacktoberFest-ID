@@ -15,3 +15,8 @@
 - Bio: Pelajar
 - GitHub: [bmusuko](https://github.com/bmusuko)
 
+
+#### Nama: [EVAN NUR](https://github.com/evantoday)
+- Tempat: Bandung, Jawa Barat
+- Bio: Pelajar
+- GitHub: [bmusuko](https://github.com/evantoday)
