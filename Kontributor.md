@@ -20,3 +20,4 @@
 - Tempat: Madiun, Jawa Timur
 - Bio: Pelajar
 - GitHub: [evannurr](https://github.com/evantoday)
+eka bluk
